@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My computer</string>
+    <string name="textview">TextView</string>
+    <string name="m_y_t_nh">Máy Tính</string>
+    <string name="so_a">So a</string>
+    <string name="ph_p_t_nh">Phép Tính</string>
+    <string name="s_b">Số b</string>
+    <string name="t_nh">Tính</string>
+    <string name="k_t_qu">KẾT QUẢ</string>
+</resources>
